@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[Asahikawa Asahikawa travel 안내]]></title>
-  <link>https://</link>
-  <description><![CDATA[Asahikawa 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Tue, 26 May 2026 07:15:33 GMT</pubDate>
-  <lastBuildDate>Tue, 26 May 2026 07:15:33 GMT</lastBuildDate>
-  <atom:link href="https:///feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[정보]]></title>
+  <link>https://dydrkrtks7-cmd.github.io/bp-asahikawa-travel</link>
+  <description><![CDATA[정보 - Asahikawa travel 안내 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Tue, 09 Jun 2026 23:36:27 GMT</pubDate>
+  <lastBuildDate>Tue, 09 Jun 2026 23:36:27 GMT</lastBuildDate>
+  <atom:link href="https://dydrkrtks7-cmd.github.io/bp-asahikawa-travel/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[Asahikawa Asahikawa travel 안내 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https:///</link>
-      <guid isPermaLink="true">https:///</guid>
-      <description><![CDATA[Asahikawa 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Tue, 26 May 2026 07:15:33 GMT</pubDate>
+      <title><![CDATA[Asahikawa travel 안내 솔직 후기 — 3개월 써본 사람의 리얼 리뷰]]></title>
+      <link>https://dydrkrtks7-cmd.github.io/bp-asahikawa-travel/posts/review-001-1g9ff28.html</link>
+      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-asahikawa-travel/posts/review-001-1g9ff28.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목IMDB 3점대 영화에서 눈물을 호소하다: 블레이드 러너 파이널 컷 유니콘 꿈 시퀀스의 진실 ## 포스트 DNA d537f72c관점: 비용, 시간, 위험을 동시에 비교하는 실용 판단구조: problem-autopsy — 실패 결과에서 원인을 거]]></description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>

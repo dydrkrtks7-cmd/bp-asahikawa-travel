@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>출시 3일 만에 판매 중단된 게임. 데이터 까보니 그 이유가 나왔다</title>
+  <link rel="canonical" href="https://asahikawa-travel-guide.namanavi.com/posts/field_note-007-16ba3wg.html">
+  <style>
+    body { font-family: sans-serif; line-height: 1.8; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+    h1 { font-family: serif; color: #111; margin-bottom: 0.5em; }
+    h2 { font-size: 1.4em; margin: 1.5em 0 0.5em; color: #222; }
+    h3 { font-size: 1.15em; margin: 1.2em 0 0.4em; color: #444; }
+    p { margin: 0 0 1em; }
+    a { color: #3182ce; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="../index.html">← 목록으로 돌아가기</a>
+  </header>
+  <main>
+    <h1>출시 3일 만에 판매 중단된 게임. 데이터 까보니 그 이유가 나왔다</h1>
+    <article>
+      <p>2023년 8월, 아사히카와의 작은 게임사. 데이터 로그 덤프라는 게 말이지, 보통은 휴지통 직행이다. 그런데 버전 1.05 데이터를 긁다 보니 생전 처음 보는 보스 패턴 3종이 남아 있더라.</p>
+<p>## 데이터 속에 박힌 보스들</p>
+<p>첫 번째는 '잿빛 눈의 여왕'으로 불리는 형체. AI 루틴이 유저의 방어 자세를 12가지나 추적해야 했다. 실제 맞는 프레임 판정은 4개만 필요했는데, 나머지 자세 추적은 전부 의미 없음. 메모리만 잡아먹는 구조라서 48시간 내에 컷했다.</p>
+<p>두 번째는 '투명 그림자' 기계 보스. 패턴은 9단계인데, 5개가 실질적으로 동일한 회피를 강요하는 로직이었다. 데이터 마이닝 측정 결과 유저가 첫 패턴만 익숙해지면 무적 회피가 가능해서 사실상 원 히트 원 킬. 밸런스 파괴 수준.</p>
+<p>세 번째는 아사히카와 지방 설화를 모티브로 한 얼음 거인. 에셋은 완성되었지만, 등장 조건이 전 맵의 npc 행동을 실시간 서버 데이터로 트래킹해야 했다. 패치 전 빌드에서도 에러코드 0x003f가 지속 발생. 통째로 폐기.</p>
+<p>## 왜 만들었다 뺐냐</p>
+<p>이 보스들이 존재하려면 유저 경험을 완전히 무시해야 했다. 첫 번째는 고인물만 깰 수 있고, 두 번째는 초보가 1초 만에 죽음. 세 번째는 버그를 유발해서 플레이 중단 강요. 장사하려는 게임에 이런 게 들어갈 리 없지.</p>
+<p>내가 여기서 스팀에 출시했다가 3일 만에 판매 중단된 게임의 진짜 사유도 비슷하다. 데이터마이닝을 통해 발견한 이 보스 패턴은, 당시 우리가 넣으려 했지만 뺀 요소들과 정확히 일치했다. 유저가 반응할 조건을 무시하거나, 불필요한 부담을 주거나, 난이도만 높았음.</p>
+<p>## 그 기준을 적용해 봐</p>
+<p>니가 지금까지 만든 게임에 컷된 콘텐츠가 있다면, 이유를 점검하라. 유저 경험 저해, 리소스 부담 과다, 개발 일정 초과 중 하나만 해당해도 잘라내야 한다. 내 게임은 그 세 가지를 동시에 만족시키는 요소를 너무 많이 넣은 대가를 치렀다.</p>
+<p>이 보스들을 데이터에서 보면서 든 생각은 결국 하나더라. 완성은 채움보다 비움에서 온다. 아사히카와 새벽 공기처럼 차갑지만 선명하다. 다음에는 덜어내는 걸 게을리하지 말아야지.</p>
+
+    <div class="juice-ref-d6rpzp" style="margin-top:2.5rem;padding:1rem 0;border-top:1px dashed #ccc;font-size:0.9rem;color:#666;">
+      <p style="font-weight:600;margin-bottom:0.5rem;">함께 보면 좋은 정보</p>
+      <ul style="list-style:none;padding:0;margin:0;">
+      <li>관련 업계 트렌드와 통계는 <a href="https://fx-torihiki.space/">tokyo-fx</a>에 정리되어 있습니다.</li>
+      <li>자세한 기술 명세 가이드는 <a href="https://www.w3.org/" rel="noopener noreferrer" target="_blank">공식 가이드 커뮤니티</a>를 참고하십시오.</li>
+      </ul>
+    </div>
+    </article>
+  </main>
+</body>
+</html>

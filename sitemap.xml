@@ -1,38 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-asahikawa-travel/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https://asahikawa-travel-guide.namanavi.com/</loc>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-asahikawa-travel/posts/review-001-1g9ff28.html</loc>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/checklist-002-n3mako.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/compare-001-15gavry.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/field_note-007-16ba3wg.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/gemini-coverage-20260705-207.html</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/guide-008-1j9ls01.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/interview-004-cpnosc.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/myth-003-bajw6o.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/qa-009-tco90z.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/review-001-1g9ff28.html</loc>
     <lastmod>2026-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-asahikawa-travel/posts/review-002-pctav9.html</loc>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/review-002-pctav9.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-asahikawa-travel/posts/t3link-001-pctav9.html</loc>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/review-006-vy2ppj.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/t3link-001-pctav9.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-asahikawa-travel/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-asahikawa-travel/posts/gemini-coverage-20260705-207.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <loc>https://asahikawa-travel-guide.namanavi.com/posts/t3link-005-775h9l.html</loc>
+    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

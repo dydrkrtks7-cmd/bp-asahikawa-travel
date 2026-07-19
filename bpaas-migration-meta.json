@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "importedAt": "2026-07-03T07:40:44.451Z",
+  "campaignId": null,
+  "slug": "asahikawa-travel",
+  "adoptExisting": true,
+  "sourceType": "urlSnapshot",
+  "sourceUrl": "https://asahikawa-travel-guide.namanavi.com/",
+  "copiedFiles": 2,
+  "copiedBytes": 8938,
+  "fetchedAssets": 1,
+  "skippedAssets": 0,
+  "skippedSymlinks": 0
+}
